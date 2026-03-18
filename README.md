@@ -1,6 +1,6 @@
 #  MiniRugby.fr
 
-Jouer maintenant : [https://minirugby.fr](https://minirugby.fr)
+Jouer maintenant : **[https://minirugby.fr](https://minirugby.fr)**
 
 ![](menu.png)
 
